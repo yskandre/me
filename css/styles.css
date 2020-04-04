@@ -1,0 +1,17 @@
+body {
+    background-color: #fcebdc;
+    margin-left: 5%
+}
+hr {
+border-style:groove;
+width: 95%;
+margin-left: 0;
+}
+
+img {
+
+height: 200px;
+width: 200px;
+max-width:100%;
+height:auto;
+}
