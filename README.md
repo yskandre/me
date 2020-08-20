@@ -7,6 +7,12 @@ Second stage: CSS
 
 Third stage: Javascript
 
-//https://github.com/TraceLD/github-user-language-breakdown/blob/master/modules/getLang.js
+//use the github api to get a breakdown of prog lang usage
 
-//adapt this for dynamic piechart of prog lang usage
+Using: https://github.com/octokit/graphql.js/
+
+Get user: https://docs.github.com/en/graphql/reference/queries#user
+
+Get repos: https://docs.github.com/en/graphql/reference/objects#repositoryconnection
+
+Get languages: https://docs.github.com/en/graphql/reference/objects#languageconnection
